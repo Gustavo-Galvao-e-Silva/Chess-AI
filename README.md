@@ -1,2 +1,2 @@
 # Chess-AI
-This project first contains a pygame chess game and then builds multiple AI models to play it
+This project is a pygame chess engine that allows for local player vs. player matches. It also will have an AI bot to play against the player. 
